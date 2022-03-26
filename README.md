@@ -1,4 +1,4 @@
-## Hi there! Grab a cup of coffee (or a cappuccino) and enjoy :3 
+## Hi there! Grab a cup of coffee and enjoy :3 
 <div align="center">
   <a href="https://github.com/PhilippoRodrigues">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilippoRodrigues&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
