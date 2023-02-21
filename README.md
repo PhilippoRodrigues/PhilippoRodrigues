@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Philippo Rodrigues. I'm from Brazil and living in Rio.
+I'm Philippo Rodrigues. I'm from Brazil and living in Dublin.
 <!-- <div>
   <a href="https://www.linkedin.com/in/philippo-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> -->
